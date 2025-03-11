@@ -1,0 +1,9 @@
+{
+	"name": "Magical_Girl_Huntress",
+	"version_number": "2.0.0",
+	"website_url": "",
+	"description": "My second mod, a Magical Girl Huntress skin",
+	"dependencies": [
+		"bbepis-BepInExPack-5.4.1903"
+	]
+}
